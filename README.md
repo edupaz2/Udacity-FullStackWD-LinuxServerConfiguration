@@ -3,6 +3,7 @@
 - IP: 52.193.1.71
 - SSH is hosted on non-default port
 - Key-based SSH authentication is enforced
+- Root cannot login remotely.
 
 # Steps performed:
 ## 1. Start a new Ubuntu Linux server instance on Amazon Lightsail. There are full details on setting up your Lightsail instance on the next page.
